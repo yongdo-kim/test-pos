@@ -12,7 +12,7 @@
                 ]]>
             </description>
             <pubDate>Wed, 01 Apr 2026 12:00:00 +0900</pubDate>
-            <enclosure url="https://github.com/yongdo-kim/test-pos/releases/download/v.1.0.2/GAEMIPOS-x86_64-1.0.2-Installer-2.exe"
+            <enclosure url="https://github.com/yongdo-kim/test-pos/releases/download/v.1.0.2/GAEMIPOS-x86_64-1.0.2+2-Installer.exe"
                        sparkle:version="1.0.2+2"
                        sparkle:os="windows"
                        length="0"
