@@ -3,13 +3,13 @@
     <channel>
         <title>GAEMI POS Updates</title>
         <item>
-            <title>Version 1.0.1</title>
+            <title>Version 1.0.2</title>
             <sparkle:releaseNotesLink>
-                https://github.com/yongdo-kim/test-pos/releases/tag/v1.0.1
+                https://github.com/yongdo-kim/test-pos/releases/tag/v1.0.2
             </sparkle:releaseNotesLink>
             <pubDate>Wed, 01 Apr 2026 12:00:00 +0900</pubDate>
-            <enclosure url="https://github.com/yongdo-kim/test-pos/releases/download/v1.0.1/GAEMIPOS-x86_64-1.0.1-Installer.exe"
-                       sparkle:version="1.0.1"
+            <enclosure url="https://github.com/yongdo-kim/test-pos/releases/download/v1.0.2/GAEMIPOS-x86_64-1.0.2-Installer.exe"
+                       sparkle:version="1.0.2"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
