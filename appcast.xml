@@ -3,17 +3,17 @@
     <channel>
         <title>GAEMI POS Updates</title>
         <item>
-            <title>Version 1.0.15+2</title>
+            <title>Version 1.0.17+2</title>
             <description>
                 <![CDATA[
-                    ● 개미 포스 성능 및 안정성 개선(1.0.15+2)
+                    ● 개미 포스 성능 및 안정성 개선(1.0.17+2)
                     ● 로그인 페이지 디자인 고도화
                     ● 자동 업데이트 알림 모달 추가
                 ]]>
             </description>
             <pubDate>Wed, 01 Apr 2026 12:00:00 +0900</pubDate>
-            <enclosure url="https://github.com/yongdo-kim/test-pos/releases/download/v1.0.15%2B2/gaemi_pos_v1.0.15+2.zip"
-                       sparkle:version="1.0.15+2"
+            <enclosure url="https://github.com/yongdo-kim/test-pos/releases/download/v1.0.17.%2B2/gaemi_pos_v1.0.17+2.zip"
+                       sparkle:version="1.0.17+2"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
