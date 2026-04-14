@@ -7,7 +7,7 @@
         <language>ko</language>
 
         <item>
-            <title>Version 1.0.3</title>
+            <title>Version 1.0.4</title>
             <description>
                 <![CDATA[
                     ● 최초 릴리스
@@ -16,8 +16,8 @@
                 ]]>
             </description>
             <pubDate>Tue, 14 Apr 2026 12:00:00 +0900</pubDate>
-            <enclosure url="https://github.com/yongdo-kim/test-pos/releases/download/v1.0.3-c/GAEMI-Setup-1.0.3.exe"
-                       sparkle:version="1.0.3"
+            <enclosure url="https://github.com/yongdo-kim/test-pos/releases/download/v1.0.4-c/GAEMI-Setup-1.0.4.exe"
+                       sparkle:version="1.0.4"
                        sparkle:os="windows"
                        length="296891848"
                        type="application/vnd.microsoft.portable-executable" />
