@@ -19,7 +19,7 @@
             <enclosure url="https://github.com/yongdo-kim/test-pos/releases/download/v1.0.1-c/GAEMI-Setup-1.0.1.exe"
                        sparkle:version="1.0.1"
                        sparkle:os="windows"
-                       length="0"
+                       length="296884928"
                        type="application/vnd.microsoft.portable-executable" />
         </item>
     </channel>
